@@ -1,0 +1,27 @@
+1.Items Introduction
+
+Dough, biscuits, biscuits, dumplings: Dough to make something that contains flour, such as biscuits, dumplings. The dough is placed in the oven and baked into biscuits. Both biscuits and dumplings can be eaten as fast as dried kelp, each regaining 4 and 2 hunger points.
+
+Salt Ores, salt, and salt barrels: naturally generated ores, some salt can be obtained by digging them out. 8 salt + buckets synthesize a salt bucket. After eating, it will restore 8 points of hunger. It will give a poisoning IV effect for 20 seconds, and there is a 25% chance of gaining a 10-minute resistance boost III effect!
+
+Onions and soybeans: Destroy grasses to obtain seeds (onion seedlings and soybeans, respectively), and plant them to obtain onions and more soybeans. Both can be just, can be just...
+
+Bottled soybeans, bottled meat, bottled oil: Bottled soybeans or oil are put in a furnace to extract edible oil.
+
+Roujiamo, immature Roujiamo: As the name suggests...Eating Roujiamo can restore 6 points of hunger!
+
+Cumin, mutton skewers, uncooked mutton skewers: cumin is obtained by cutting grass, and combined with mutton and other ingredients to synthesize uncooked mutton skewers, put in the oven to be judged by fire, and then eat it to restore 3 hunger points.
+
+Uncooked eggs, cooked fried eggs, fried eggs: combine unfried eggs, put them in the furnace, take them out after they are cooked, and eat them with the pot to restore 9 o'clock fullness (wow) (of course they will return to your pot) ), or take the workbench to split into a pot and 5 fried eggs, each fried egg will restore 3 points of hunger value.
+
+Pot, kitchen knife, weeding shovel (??): The weeding shovel was originally used to synthesize green onion seedlings with the grass, but now it is almost useless except for the digger... The kitchen knife and the pot hurt people! .
+
+2. blocks
+
+Salt Ore: I have already introduced it above.
+
+dough, dough blocks, elastic dough blocks: the cake blocks are decorations... the dough blocks are similar to honey blocks. Elastic dough blocks are similar to slime blocks, but can jump high above the block.
+
+Fry Furnace: Similar to a furnace, but the "type" in the composition table is "fry". Although it is very similar, written in code that imitates the furnace, but it took me nearly a whole day to understand
+3.other things
+Enchanting-"Hunger": Hit people will give hunger effect according to level, and the duration will increase with the increase of level. Currently it can be obtained through piglin trading, I don’t know if the villager trading will work...
