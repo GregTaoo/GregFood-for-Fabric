@@ -23,5 +23,7 @@ Salt Ore: I have already introduced it above.
 dough, dough blocks, elastic dough blocks: the cake blocks are decorations... the dough blocks are similar to honey blocks. Elastic dough blocks are similar to slime blocks, but can jump high above the block.
 
 Fry Furnace: Similar to a furnace, but the "type" in the composition table is "fry". Although it is very similar, written in code that imitates the furnace, but it took me nearly a whole day to understand
+
 3.other things
+
 Enchanting-"Hunger": Hit people will give hunger effect according to level, and the duration will increase with the increase of level. Currently it can be obtained through piglin trading, I don’t know if the villager trading will work...
