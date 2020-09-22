@@ -3,4 +3,4 @@ a simple mod
 <br>Getting more info by get in touch with me!<br>
 Twitter:@TaoGreg; Youtube:GregTao; bilibili:GregTaoo; QQ:64517446
 <br>
-## Latest Master Download: https://grtc.lanzous.com/ipJxogqbk6j (Release 1.0.2) or https://grtc.lanzous.com/i7TTWgmnrmf (Release 1.0.1)
+## Latest Master Download: https://grtc.lanzous.com/b01nna7yj (key:2x31)
