@@ -4,3 +4,4 @@ a simple mod
 Twitter:@TaoGreg; Youtube:GregTao; bilibili:GregTaoo; QQ:64517446
 <br>
 ## Latest Code Download: https://grtc.lanzous.com/b01nna7yj (key:2x31)
+# Pls ask me for the newest!
